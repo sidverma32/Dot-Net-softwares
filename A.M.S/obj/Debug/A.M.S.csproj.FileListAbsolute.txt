@@ -1,0 +1,10 @@
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\bin\Debug\A.M.S.exe.config
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\bin\Debug\A.M.S.exe
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\bin\Debug\A.M.S.pdb
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.Form1.resources
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.Form2.resources
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.Properties.Resources.resources
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.csproj.GenerateResource.Cache
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.exe
+C:\Users\SIDDHARTH\documents\visual studio 2013\Projects\A.M.S\A.M.S\obj\Debug\A.M.S.pdb
