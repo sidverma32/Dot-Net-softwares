@@ -1,0 +1,129 @@
+C:\CSharp11\DBOperations\DBOperations\bin\Debug\DBOperations.exe
+C:\CSharp11\DBOperations\DBOperations\bin\Debug\DBOperations.pdb
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form1.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Properties.Resources.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.exe
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.pdb
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form2.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form3.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form4.resources
+C:\CSharp11\DBOperations\DBOperations\bin\Debug\DBOperations.exe.config
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form5.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form6.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form7.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form8.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form9.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form10.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form11.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form12.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form13.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form14.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form15.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form16.resources
+C:\CSharp11\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form17.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe.config
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.exe
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.pdb
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.pdb
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form1.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form10.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form11.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form12.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form13.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form14.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form15.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form16.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form17.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form2.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form3.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form4.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form5.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form6.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form7.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form8.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form9.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Properties.Resources.resources
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.csproj.GenerateResource.Cache
+E:\Naresh IT .NET SOftware\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.csprojResolveAssemblyReference.cache
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe.config
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.exe
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.pdb
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.pdb
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form1.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form10.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form11.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form12.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form13.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form14.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form15.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form16.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form17.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form2.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form3.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form4.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form5.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form6.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form7.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form8.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form9.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Properties.Resources.resources
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe.config
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.exe
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form1.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form10.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form11.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form12.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form13.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form14.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form15.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form16.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form17.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form2.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form3.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form4.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form5.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form6.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form7.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form8.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form9.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Properties.Resources.resources
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.csproj.GenerateResource.Cache
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.pdb
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.pdb
+C:\Users\SIDDHARTH\Desktop\C# Class File 9 am\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form18.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe.config
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.exe
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.pdb
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.exe
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\bin\Debug\DBOperations.pdb
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.csprojResolveAssemblyReference.cache
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form1.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form10.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form11.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form12.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form13.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form14.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form15.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form16.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form17.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form18.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form2.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form3.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form4.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form5.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form6.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form7.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form8.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Form9.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.Properties.Resources.resources
+C:\Users\SIDDHARTH\Desktop\Class File\CSharp to Copy\Class Room Examples\DBOperations\DBOperations\obj\x86\Debug\DBOperations.csproj.GenerateResource.Cache
