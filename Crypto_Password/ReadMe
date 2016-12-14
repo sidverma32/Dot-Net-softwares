@@ -1,0 +1,8 @@
+
+
+ Based on Artificial Intelligence Algorithm:
+      Implementation: Password Encoder.
+      User will enter the actual passwrod and it will convert into encoded password.
+      It has three types- 1.Basic
+                          2.medium
+                          3.Classic
